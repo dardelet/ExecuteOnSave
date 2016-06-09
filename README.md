@@ -2,7 +2,7 @@ ExecuteOnSave Sublime Text 2 Plugin
 ===================================
 
 This simple plugin executes a command or multiple commands when a specific file is saved.  
-(Inspired by https://github.com/alexnj/SublimeOnSaveBuild)
+(Inspired by https://github.com/luwes/SublimeOnSaveBuild)
 
 Installation
 ------------
@@ -11,7 +11,7 @@ Installation
 
 **With Git:** Clone the repository in your Sublime Text 2 "Packages" directory:
 
-    git clone git://github.com/alexnj/ExecuteOnSave.git
+    git clone git://github.com/luwes/ExecuteOnSave.git
 
 
 The "Packages" directory is located at:
